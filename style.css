@@ -109,3 +109,10 @@ a:hover {
   color: rgb(220, 220, 220);
 }
 
+#bio {
+  display: inline-grid;
+  padding: 20px;
+  margin-bottom: 20px;
+  grid-template-columns: 30% 70%;
+  align-items: center;
+}
